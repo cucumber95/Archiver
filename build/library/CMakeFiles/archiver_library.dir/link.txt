@@ -1,0 +1,2 @@
+/usr/bin/ar qc libarchiver_library.a CMakeFiles/archiver_library.dir/BitReader.cpp.o CMakeFiles/archiver_library.dir/Bor.cpp.o CMakeFiles/archiver_library.dir/Heap.cpp.o CMakeFiles/archiver_library.dir/BitWriter.cpp.o CMakeFiles/archiver_library.dir/Converter.cpp.o CMakeFiles/archiver_library.dir/Compressor.cpp.o CMakeFiles/archiver_library.dir/Decompressor.cpp.o
+/usr/bin/ranlib libarchiver_library.a

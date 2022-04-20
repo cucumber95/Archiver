@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\library\;CMake Files\test\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="archiver">
+				<Option output="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/archiver.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/."/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 archiver"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="archiver/fast">
+				<Option output="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/archiver.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/."/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 archiver/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="archiver_library">
+				<Option output="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/library/libarchiver_library.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/library"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/."/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 archiver_library"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="archiver_library/fast">
+				<Option output="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/library/libarchiver_library.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/library"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/."/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 archiver_library/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option output="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/test/test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/."/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test/fast">
+				<Option output="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/test/test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/."/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 test/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/BitReader.cpp">
+			<Option target="archiver_library"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/BitReader.h">
+			<Option target="archiver_library"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/BitWriter.cpp">
+			<Option target="archiver_library"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/BitWriter.h">
+			<Option target="archiver_library"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/Bor.cpp">
+			<Option target="archiver_library"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/Bor.h">
+			<Option target="archiver_library"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/Compressor.cpp">
+			<Option target="archiver_library"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/Compressor.h">
+			<Option target="archiver_library"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/Converter.cpp">
+			<Option target="archiver_library"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/Converter.h">
+			<Option target="archiver_library"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/Decompressor.cpp">
+			<Option target="archiver_library"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/Decompressor.h">
+			<Option target="archiver_library"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/Heap.cpp">
+			<Option target="archiver_library"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/Heap.h">
+			<Option target="archiver_library"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/main.cpp">
+			<Option target="archiver"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/test/test.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/library/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\library\"/>
+		</Unit>
+		<Unit filename="//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

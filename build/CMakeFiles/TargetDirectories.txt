@@ -1,0 +1,9 @@
+/home/maksim/cpp-pilot-hse/tasks/archiver/build/CMakeFiles/rebuild_cache.dir
+/home/maksim/cpp-pilot-hse/tasks/archiver/build/CMakeFiles/edit_cache.dir
+/home/maksim/cpp-pilot-hse/tasks/archiver/build/CMakeFiles/archiver.dir
+/home/maksim/cpp-pilot-hse/tasks/archiver/build/library/CMakeFiles/rebuild_cache.dir
+/home/maksim/cpp-pilot-hse/tasks/archiver/build/library/CMakeFiles/edit_cache.dir
+/home/maksim/cpp-pilot-hse/tasks/archiver/build/library/CMakeFiles/archiver_library.dir
+/home/maksim/cpp-pilot-hse/tasks/archiver/build/test/CMakeFiles/rebuild_cache.dir
+/home/maksim/cpp-pilot-hse/tasks/archiver/build/test/CMakeFiles/edit_cache.dir
+/home/maksim/cpp-pilot-hse/tasks/archiver/build/test/CMakeFiles/test.dir

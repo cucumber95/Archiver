@@ -1,0 +1,9 @@
+//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/CMakeFiles/archiver.dir
+//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/CMakeFiles/edit_cache.dir
+//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/library/CMakeFiles/archiver_library.dir
+//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/library/CMakeFiles/edit_cache.dir
+//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/library/CMakeFiles/rebuild_cache.dir
+//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
+//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/test/CMakeFiles/test.dir
+//wsl$/Ubuntu/home/maksim/cpp-pilot-hse/tasks/archiver/cmake-build-debug/test/CMakeFiles/edit_cache.dir
